@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "customer": "Asha Rao",
+      "amount": 240,
+      "method": "UPI",
+      "category": "Food",
+      "note": "Café Aroma",
+      "createdAt": "2026-11-03T10:42:00.000Z"
+    },
+    {
+      "id": 2,
+      "customer": "Rahul Mehta",
+      "amount": 65000,
+      "method": "Card",
+      "category": "Shopping",
+      "note": "Laptop accessories",
+      "createdAt": "2026-11-03T12:15:00.000Z"
+    },
+    {
+      "id": 3,
+      "customer": "Unknown Buyers",
+      "amount": 165000,
+      "method": "Net Banking",
+      "category": "Shopping",
+      "note": "Unknown online store",
+      "createdAt": "2026-11-04T06:30:00.000Z"
+    },
+    {
+      "customer": "Pranav",
+      "amount": 8175224125411,
+      "method": "Card",
+      "category": "Bills",
+      "note": "",
+      "createdAt": "2026-11-06T04:23:29.352Z",
+      "id": 4
+    }
+  ]
+}
